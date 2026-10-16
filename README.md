@@ -51,7 +51,6 @@ Nodi réunit tous vos flux de travail dans une interface cohérente et épurée 
 | **🎨 Canvas** | Espace vectoriel infini façon Miro : post-its réalistes, formes géométriques, cadres, connecteurs orthogonaux intelligents avec contournement d'obstacles, alignement magnétique et **export PNG haute définition (Retina 2x)**. |
 | **📊 Tableur** | Feuilles de calcul locales et structurées (textes, nombres, devises €, statuts, dates, cases à cocher), calculs automatiques (sommes, moyennes), tris, filtres et **export CSV natif universel** compatible Excel. |
 | **🖼️ Moodboard** | Murs d'inspiration et collections visuelles pour rassembler et organiser vos références graphiques, captures et médias locaux en haute définition. |
-| **🕸️ Node Graph** | Cartographie nodale interactive pour explorer visuellement les liens et connexions logiques entre toutes vos idées et documents. |
 | **📅 Calendrier** | Vue mensuelle claire synchronisée en temps réel avec les dates d'échéance de l'ensemble de vos tableaux de tâches. |
 | **⚡ Quick Tools** | Barre d'outils instantanée : **Calculatrice Intelligente** (calculs en direct avec variables et pourcentages), Convertisseur universel, Minuteur Pomodoro et Utilitaires de texte. |
 
