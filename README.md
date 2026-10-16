@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 Nodi Desktop
+# 🌌 Nodi
 
 **Votre espace de travail personnel tout-en-un, souverain et 100% hors-ligne.**
 
