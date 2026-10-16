@@ -4,53 +4,61 @@
 
 **Votre espace de travail personnel tout-en-un, souverain et 100% hors-ligne.**
 
-[![Release](https://img.shields.io/github/v/release/ANKY3D/nodi-releases?color=6366f1&label=Version)](https://github.com/ANKY3D/nodi-releases/releases/latest)
-[![Platform](https://img.shields.io/badge/Plateforme-Windows%2010%20%2F%2011%20(x64)-0284c7)](https://github.com/ANKY3D/nodi-releases/releases/latest)
-[![Privacy](https://img.shields.io/badge/Confidentialit%C3%A9-100%25%20Local%20%2F%20Z%C3%A9ro%20Cloud-10b981)](https://github.com/ANKY3D/nodi-releases)
-[![License](https://img.shields.io/badge/Licence-Propri%C3%A9taire-gray)](https://github.com/ANKY3D/nodi-releases)
+[![Vibe Coded](https://img.shields.io/badge/Vibe%20Coded%20with-Gemini%203.8%20Flash-8b5cf6?style=for-the-badge&logo=google)](https://github.com/ANKY3D/nodi-releases)
+[![Free](https://img.shields.io/badge/100%25%20Gratuit-Non%20Commercial-10b981?style=for-the-badge)](https://github.com/ANKY3D/nodi-releases)
+[![Platform](https://img.shields.io/badge/Windows-10%20%2F%2011%20(x64)-0284c7?style=for-the-badge&logo=windows)](https://github.com/ANKY3D/nodi-releases/releases/latest)
 
 <br />
 
-### [⬇️ Télécharger la dernière version de Nodi pour Windows (.exe)](https://github.com/ANKY3D/nodi-releases/releases/latest)
+### [⬇️ Télécharger Nodi pour Windows (.exe)](https://github.com/ANKY3D/nodi-releases/releases/latest)
 
-*(Installation rapide en mode utilisateur, aucun droit Administrateur requis)*
+*(Installation rapide, sans droits administrateur requis, mises à jour automatiques intégrées)*
 
 </div>
 
 ---
 
-## ✨ À propos de Nodi
+> [!NOTE]
+> ### 🤖 Genèse du projet & Vibe Coding
+> **Nodi a été entièrement « vibe codé » en collaboration avec l'IA Gemini 3.8 Flash.**  
+> Ce logiciel a été créé à l'origine pour répondre à un **besoin strictement personnel** : concevoir l'espace de travail idéal, rapide et indépendant des serveurs distants.
+> 
+> 💡 **Ce projet n'a aucune vocation commerciale.**  
+> Il est mis à disposition et partagé **100% gratuitement** pour quiconque souhaite profiter d'un outil d'organisation quotidien puissant, privé et sans abonnement.
 
-**Nodi** réunit en une seule application native la puissance de prise de notes de **Notion**, la souveraineté locale d'**Obsidian**, la gestion de flux de **Trello** et la créativité visuelle de **Miro**.
+---
 
-* 🔒 **100% Souverain & Hors-ligne** : Vos notes, tableaux et canvas restent stockés localement sur votre disque dur dans des formats ouverts (Markdown & JSON). Aucune connexion requise, aucun compte, aucun abonnement, zéro télémétrie.
-* ⚡ **Moteur Natif Haute Performance** : Cœur d'application ultra-léger et sécurisé propulsé par **Rust** et **Tauri v2**, garantissant une consommation minimale de RAM et une interface fluide à 144 Hz.
-* 🔄 **Mises à jour transparentes** : Moteur de mise à jour intégré avec vérification cryptographique (Minisign) permettant d'actualiser l'application en un clic.
+## 🔒 Qu'est-ce que Nodi ?
+
+**Nodi** regroupe en une seule application native Windows la puissance de prise de notes de **Notion**, la souveraineté locale d'**Obsidian**, la gestion de flux de **Trello** et la créativité visuelle de **Miro**.
+
+* 🛡️ **100% Local & Zéro Cloud** : Vos notes, tâches et canvas sont enregistrés directement sur votre disque dur dans des formats ouverts (`.md` et `.json`). Zéro serveur, zéro compte requis, zéro télémétrie.
+* ⚡ **Ultra-rapide & Léger** : Moteur natif en **Rust** (Tauri v2) et interface React fluide à 144 Hz, consommant très peu de mémoire vive.
+* 🔄 **Mises à jour automatiques en 1 clic** : L'application vérifie automatiquement les nouvelles versions publiées ici et se met à jour sans aucune manipulation compliquée.
 
 ---
 
 ## 🎯 Les Modules Intégrés
 
-| Module | Fonctionnalités clés |
+| Module | Ce qu'il vous permet de faire |
 | :--- | :--- |
-| **📝 Notes** | Éditeur visuel riche TipTap, bascule instantanée en Markdown brut, métadonnées Frontmatter et backlinks croisés. |
+| **📝 Notes** | Éditeur visuel WYSIWYG TipTap, bascule instantanée en Markdown brut, backlinks croisés et dictée vocale locale. |
 | **📋 Tâches** | Tableaux Kanban interactifs avec colonnes personnalisables, glisser-déposer fluide et vue liste. |
-| **🎨 Canvas** | Tableaux blancs infinis, post-its, connecteurs orthogonaux intelligents et snapping de précision. |
-| **🕸️ Node Graph** | Cartographie visuelle et graphes de nœuds pour modéliser vos idées et vos architectures de travail. |
-| **📅 Calendrier** | Vue chronologique agrégeant automatiquement les dates d'échéance de tous vos projets. |
+| **🎨 Canvas** | Tableaux blancs infinis, post-its colorés, connecteurs orthogonaux intelligents et alignement automatique. |
+| **🕸️ Node Graph** | Cartographie visuelle et graphes de nœuds pour modéliser vos pensées et relier vos idées. |
+| **📅 Calendrier** | Vue chronologique mensuelle synchronisée avec les échéances de l'ensemble de vos tableaux Kanban. |
 
 ---
 
-## 🚀 Installation & Démarrage
+## 🚀 Installation
 
-1. Rendez-vous sur la page des **[Dernières Releases](https://github.com/ANKY3D/nodi-releases/releases/latest)**.
-2. Téléchargez le fichier d'installation `Nodi_x.x.x_x64-setup.exe`.
-3. Lancez le fichier : l'installation se fait instantanément et crée les raccourcis sur votre Bureau et Menu Démarrer.
-4. Au premier lancement, choisissez un dossier sur votre disque dur pour créer votre premier espace de travail local.
+1. Rendez-vous dans la section **[Dernières Releases](https://github.com/ANKY3D/nodi-releases/releases/latest)**.
+2. Téléchargez l'installateur **`Nodi_x.x.x_x64-setup.exe`**.
+3. Lancez le fichier téléchargé pour installer l'application sur votre PC.
+4. Au premier lancement, choisissez simplement le dossier de votre disque où vous souhaitez ranger votre espace de travail !
 
 ---
 
 <div align="center">
-  <sub>Développé avec passion par <b>ANKY3D</b> · Tous droits réservés</sub>
+  <sub>Partagé avec passion par <b>ANKY3D</b> · Conçu pour un usage libre et personnel</sub>
 </div>
-
